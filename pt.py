@@ -11,8 +11,8 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 
 port = int(os.environ.get("PORT", 8050))
 
-API_KEY = "YOUR_KEY_HERE"
-API_SECRET = "YOUR_SECRET_HERE"
+API_KEY = "PKRXJGKGWKTGDK7EAGUOOUVSUK"
+API_SECRET = "13W4dx3X4AJZLkLzXpc2DXtta8NFruYv4oogJFuMuY9y"
 
 STOCKS = ['AMZN', 'META']
 USE_PCT = 0.9
