@@ -10,8 +10,8 @@ import logging
 
 logging.basicConfig(level=logging.ERROR)
 
-API_KEY = "YOUR_API_KEY"
-API_SECRET = "YOUR_API_SECRET"
+API_KEY = "PKRXJGKGWKTGDK7EAGUOOUVSUK"
+API_SECRET = "13W4dx3X4AJZLkLzXpc2DXtta8NFruYv4oogJFuMuY9y"
 
 STOCKS = ['AMZN', 'META']
 
